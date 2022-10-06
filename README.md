@@ -1,2 +1,3 @@
 Praktikum Program Web 
-Kumara Daffa Prasetya 105220038
+Nama : Kumara Daffa Prasetya 
+NIM  : 105220038
